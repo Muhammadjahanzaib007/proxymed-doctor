@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "665135372639",
+    "project_id": "proxy-med-doctor",
+    "storage_bucket": "proxy-med-doctor.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:665135372639:android:61aa45c12fa4dca555beea",
+        "android_client_info": {
+          "package_name": "com.example.proxymed_doctor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "665135372639-ue2027h3l1cee2ig5bopleg4ljsvp147.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCV2IbESrNIMKgBpym-fhohrRwCmOv36jU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "665135372639-ue2027h3l1cee2ig5bopleg4ljsvp147.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "665135372639-qrsmrobtuegghfromt33ienda7fq70ih.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.proxymeddoctorside"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:665135372639:android:215af0b44193d62855beea",
+        "android_client_info": {
+          "package_name": "com.example.proxymed_doctor_side"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "665135372639-595gj9bhj21veprgll1m68plulmlo7pn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.proxymed_doctor_side",
+            "certificate_hash": "0aaa293311b019d5390f5d91ec3851aed1d71175"
+          }
+        },
+        {
+          "client_id": "665135372639-om4v1p1g46m8i5mhgpq5c2lpi1kjjouk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.proxymed_doctor_side",
+            "certificate_hash": "249ed428f649ac50023a3e5e22bedd4b9aca6cec"
+          }
+        },
+        {
+          "client_id": "665135372639-ue2027h3l1cee2ig5bopleg4ljsvp147.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCV2IbESrNIMKgBpym-fhohrRwCmOv36jU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "665135372639-ue2027h3l1cee2ig5bopleg4ljsvp147.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "665135372639-qrsmrobtuegghfromt33ienda7fq70ih.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.proxymeddoctorside"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
